@@ -30,3 +30,6 @@ width: 25%;
     color: white;
     display: flex;
 }
+body{
+  font-family: 'poppins',sans-serif;
+}
